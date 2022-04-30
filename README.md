@@ -1,6 +1,5 @@
 ## About Me
 - 👋 Hi, I’m Mingtong Zhang!
-- Currently, I am working on computer vision research with [Prof. Liangrui Peng](https://www.ee.tsinghua.edu.cn/en/info/1065/1284.htm), in the Intelligent Graphic Information Processing Lab.
 
 <!---
 mtzhang1999/mtzhang1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
