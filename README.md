@@ -1,5 +1,4 @@
 ## About Me
-- 👋 Hi, I’m Mingtong Zhang!
 
 <!---
 mtzhang1999/mtzhang1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
