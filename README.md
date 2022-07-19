@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!---
-mtzhang1999/mtzhang1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alex-Alison-Zhang/Alex-Alison-Zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
